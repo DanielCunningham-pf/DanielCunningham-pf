@@ -6,6 +6,7 @@
 
 - <b>Interactive figures (using widgets)</b>
   - [Rotations on the Euclidean Plane](Rotations_on_the_Euclidean_Plane.md)
+  - [Interacting with a Peltier Device](Peltier_Device.md)
 - <b>Coding Problems Examples</b>
   - [Transposing Arrays without duplicates](Working_with_Arrays.md)
 - <b>Quantum Computing</b>
