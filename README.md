@@ -8,6 +8,6 @@
   - [Fourier Transform](Fourier_Transform.md)
   - [Calculating Expectation Value](Calculating_Expectation_Value.md)
 - <b>Coding Problems Examples</b>
-  - [Transposing Arrays without duplicates](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Transposing Arrays without duplicates](Working_with_Arrays.md)
 
 
