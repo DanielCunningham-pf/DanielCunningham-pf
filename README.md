@@ -7,7 +7,7 @@
 - <b>Quantum Computing</b>
   - [Fourier Transform](Fourier_Transform.md)
   - [Calculating Expectation Value](Calculating_Expectation_Value.md)
--  <b>Contour Plots</b>
+- <b>Contour Plots</b>
   - [Plotting the contour plot of a gradient](Contour_Plots.md)
 - <b>Coding Problems Examples</b>
   - [Transposing Arrays without duplicates](Working_with_Arrays.md)
